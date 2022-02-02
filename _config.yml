@@ -15,11 +15,10 @@ author: Quién Sabe
 
 navbar-links:
   About Me: "aboutme"
-  Contact Me: "intouch.html"
-  Projects:
-    Active:
-      - Quote Server: "projects/active/quoteserver.md"
-      - Contact Form: "projects/active/contactform.md"
+  Contact Me: "intouch"
+  Active Projects:
+    - Quote Server: "projects/active/quoteserver.md"
+    - Contact Form: "projects/active/contactform.md"
   Reference:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
