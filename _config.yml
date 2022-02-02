@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Contact Me: "intouch"
   Active Projects:
-    - Quote Server: "projects/active/quoteserver.md"
-    - Contact Form: "projects/active/contactform.md"
+    - Quote Server: "projects/active/quoteserver"
+    - Contact Form: "projects/active/contactform"
   Reference:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
