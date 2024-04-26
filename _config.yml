@@ -15,7 +15,7 @@ author: Quién Sabe
 
 navbar-links:
   About Me: "aboutme"
-  Contact Me: "https://wtfforms.metaorg.com/contact?return_to=https://wtfo-guru.com"
+  Contact Me: "https://wtfforms.wtfo-guru.com/contact?return_to=https://wtfo-guru.com"
   Active Projects:
     - Quote Server: "projects/active/quoteserver"
     - Contact Form: "projects/active/contactform"
